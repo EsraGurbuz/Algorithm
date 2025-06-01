@@ -31,11 +31,10 @@ It allows users to log their daily moods using a predefined set of colors or a c
 4. Navigate to the project folder.  
 5. Run the program:
 
-```
 ```bash
 python mood_tracker.py
 ---
-
+---
 ## 📋 Menu Options
 
 ```
