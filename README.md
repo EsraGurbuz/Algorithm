@@ -27,8 +27,10 @@ It allows users to log their daily moods using a predefined set of **colors** or
 
 ```bash
 python mood_tracker.py
+```
 
 ---
+
 ## 📋 Menu Options
 
 ```
@@ -71,5 +73,5 @@ Use `Other` if your mood doesn't match any of them.
 
 ---
 
-Esra Gurbuz 
-230543001
+**Esra Gurbuz**  
+`230543001`
